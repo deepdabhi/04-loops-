@@ -84,4 +84,3 @@ int main()
     }
     return 0;
 }
-// Enter 115 after zooming out completely and 22 in normal conditions.😁😁😁😁😁
